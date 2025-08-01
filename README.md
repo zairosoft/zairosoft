@@ -23,7 +23,7 @@ Laravel cms with modular and like ERP system project
 
 ## Get in Touch
 
-- 📧 Email: [zairosoft@gmail.com](mailto:nakhonsoft@gmail.com)
+- 📧 Email: [info@zairosoft.com](mailto:info@zairosoft.com)
 - 💼 LinkedIn: [linkedin.com/in/zairosoft](https://www.linkedin.com/in/zairosoft)
 - 🌐 Website: [zairosoft.com](https://www.zairosoft.com)
 
