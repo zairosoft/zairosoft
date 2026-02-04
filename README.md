@@ -29,7 +29,7 @@ Laravel cms with modular and like ERP system project
 
 ## Support Me
 
-- [Paypal](https://www.paypal.me/zairosoft)
+- [Sponsors](https://github.com/sponsors/zairosoft)
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
 
