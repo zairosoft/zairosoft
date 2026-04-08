@@ -18,8 +18,8 @@ I am a passionate software developer with a keen interest in open-source project
 
 Here are some of the projects I've been working on:
 
-### Laravel CMS: [Codedium](https://github.com/zairosoft/codedium)
-Laravel cms with modular and like ERP system project
+### AI  Platform: [Workless](https://github.com/zairosoft/workless)
+Workless with modular and like ERP system project
 
 ## Get in Touch
 
