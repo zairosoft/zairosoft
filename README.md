@@ -9,7 +9,7 @@ I am a passionate software developer with a keen interest in open-source project
 
 ## Tech Stack
 
-- **Languages**: PHP, Python, JavaScript, TypeScript, Node.js, Flutter
+- **Languages**: PHP, Python, JavaScript, TypeScript, Node.js, Golang, Flutter
 - **Frameworks**: React, Next.js, Nestjs, Django, Flask, CI, Laravel
 - **Tools**: Git, Docker, Kubernetes, Jenkins, VS Code
 - **Databases**: MySQL, PostgreSQL, MongoDB, Redis
